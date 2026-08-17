@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BrightPath.iml" filepath="$PROJECT_DIR$/BrightPath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread pools/Thread pools.iml" filepath="$PROJECT_DIR$/Thread pools/Thread pools.iml" />
     </modules>
   </component>
 </project>
