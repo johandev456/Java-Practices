@@ -4,7 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BrightPath.iml" filepath="$PROJECT_DIR$/BrightPath.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utilies/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/Utilies/Exercises/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utilies/Optional/Optional.iml" filepath="$PROJECT_DIR$/Utilies/Optional/Optional.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread pools/Thread pools.iml" filepath="$PROJECT_DIR$/Thread pools/Thread pools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utilies/Utilies.iml" filepath="$PROJECT_DIR$/Utilies/Utilies.iml" />
     </modules>
   </component>
 </project>
